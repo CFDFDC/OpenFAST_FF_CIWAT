@@ -1,5 +1,3 @@
-# FAST.Farm_CIWAT
-
 A fork of NREL OpenFAST, with the FAST.Farm model being modifed to enhance the prediction of dynamic wake evolution.
 
 Key features
